@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyCodingProblem", "DailyCodingProblem\DailyCodingProblem.csproj", "{C4789CE8-8C04-4C29-BFA0-C653408C939A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyCodingProblemTest", "DailyCodingProblemTest\DailyCodingProblemTest.csproj", "{14800E4D-D65E-47BB-BB35-2CE299E13CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4789CE8-8C04-4C29-BFA0-C653408C939A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4789CE8-8C04-4C29-BFA0-C653408C939A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4789CE8-8C04-4C29-BFA0-C653408C939A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4789CE8-8C04-4C29-BFA0-C653408C939A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14800E4D-D65E-47BB-BB35-2CE299E13CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14800E4D-D65E-47BB-BB35-2CE299E13CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14800E4D-D65E-47BB-BB35-2CE299E13CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14800E4D-D65E-47BB-BB35-2CE299E13CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
