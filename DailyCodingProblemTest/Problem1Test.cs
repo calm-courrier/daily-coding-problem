@@ -1,4 +1,5 @@
 using DailyCodingProblem;
+using DailyCodingProblem.Problem;
 
 namespace DailyCodingProblemTest;
 
